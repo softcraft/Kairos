@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/kairos199/!svn/ver/75/kairos/web-app/WEB-INF/tld
+END
+grails.tld
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/kairos199/!svn/ver/70/kairos/web-app/WEB-INF/tld/grails.tld
+END
+c.tld
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/kairos199/!svn/ver/75/kairos/web-app/WEB-INF/tld/c.tld
+END
+spring.tld
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/kairos199/!svn/ver/70/kairos/web-app/WEB-INF/tld/spring.tld
+END
+fmt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/kairos199/!svn/ver/75/kairos/web-app/WEB-INF/tld/fmt.tld
+END

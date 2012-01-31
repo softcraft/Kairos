@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/kairos199/!svn/ver/175/kairos/test/unit/kairos
+END
+ErrorServiceTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/kairos199/!svn/ver/97/kairos/test/unit/kairos/ErrorServiceTests.groovy
+END
+PersonaControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/kairos199/!svn/ver/175/kairos/test/unit/kairos/PersonaControllerTests.groovy
+END
+TableroControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/kairos199/!svn/ver/164/kairos/test/unit/kairos/TableroControllerTests.groovy
+END
+ErrorControllerTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/kairos199/!svn/ver/86/kairos/test/unit/kairos/ErrorControllerTests.groovy
+END
+FilialTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/kairos199/!svn/ver/76/kairos/test/unit/kairos/FilialTests.groovy
+END
+NotaTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/kairos199/!svn/ver/76/kairos/test/unit/kairos/NotaTests.groovy
+END
+PersonaTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/kairos199/!svn/ver/76/kairos/test/unit/kairos/PersonaTests.groovy
+END
+UsuarioTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/kairos199/!svn/ver/76/kairos/test/unit/kairos/UsuarioTests.groovy
+END

@@ -1,0 +1,229 @@
+body{
+		background:#004f25;
+		text-align:center;
+		margin:0;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		color:#666;
+	}
+	
+#MenuBar li a {
+	background-color: transparent;
+	color:#5b1f05;
+}
+#MenuBar a:hover, #MenuBar a:focus {
+	background-image: url(../images/botonover.jpg);
+	background-repeat: repeat-x;
+	color:#fff;
+	/*height:49px;*/
+}
+#MenuBar a.MenuBarItemHover{
+	background-image: url(../images/botonover.jpg);
+	background-repeat: repeat-x;
+	color:#fff;
+	border:none;
+	/*height:49px;R*/
+}
+
+#MenuBar a.MenuBarItemSubmenuHover, #MenuBar a.MenuBarSubmenuVisible {
+	background-image: url(../images/botonover.jpg);
+	background-repeat: repeat-x;
+	color:#fff;
+	border:none;
+}
+#MenuBar li {
+	background-image: url(../images/botonup.jpg);
+	background-repeat: repeat-x;
+	width:98px;
+	height:49px;
+	color:#9c450e;
+	font-size:12px;
+	text-align:center;
+	font-weight:normal;
+	border-right: solid 1px #a44700;
+}
+
+ul.MenuBarHorizontal a.MenuBarItemSubmenu
+{
+border:none;
+}
+
+ul#MenuBar li li{
+	background: #571f00;
+	color:#FFFFFF;
+	border-bottom: solid 1px #210000;
+	filter:alpha(opacity=80);
+	-moz-opacity:0.8;
+	-khtml-opacity: 0.8;
+	opacity: 0.8;
+	height:40px;
+	width:160px;
+
+}
+
+ul#MenuBar li li a{
+	color:#FFFFFF;
+	
+
+}
+
+ul#MenuBar li li a:hover{
+	color:#a44700;
+	
+
+}
+
+.TabbedPanels {
+	width: 350px;
+	height:150px;
+	background: #f5f2eb;
+}
+
+.TabbedPanelsTab {
+	background: #fff;
+	font-size:12px;
+	font-weight:normal;
+}
+
+.TabbedPanels1 {	
+	width: 350px;
+	height:150px;
+	background: #fff;
+}
+
+.TabbedPanelsTab1 {	
+	background: #fff;
+}
+
+.TabbedPanelsContent{
+	width: 350px;
+	height:150px;
+	background: #fff;
+}
+
+	
+.button{
+		padding:5px 10px 5px 10px;
+		font-weight:bold;
+		font-size:16px;
+		border:none;
+		background: #e17c19 url(../imgs/button.png) no-repeat;
+		color:#FFFFFF;
+		cursor:pointer;
+		width:160px;
+		height:35px;
+}
+
+.button:hover{
+		background: #e17c19 url(../imgs/button_over.png) no-repeat;
+		color:#FFFFFF;
+}
+
+.buttonSmall{
+		font-weight:bold;
+		font-size:13px;
+		border:none;
+		background: #e17c19 url(../imgs/button_small.png) no-repeat;
+		color:#FFFFFF;
+		cursor:pointer;
+		width:135px;
+		height:23px;
+}
+
+.buttonSmall:hover{
+		background: #e17c19 url(../imgs/button_over_small.png) no-repeat;
+		color:#FFFFFF;
+}
+
+.menulink{
+	color:#f5f2eb;
+	text-decoration:underline;
+	cursor:pointer;
+}
+
+.menulink:hover{
+	color:#e17c19;
+}
+
+.input{
+		background:#fff;
+		opacity: 1;
+		filter: alpha(opacity=100);
+		border:solid 1px #b9b7b2;
+		color:#595959;
+		padding:5px;
+	}
+	
+.lb{
+		color:#004f25;
+		font-size:18px;
+
+	}
+
+.fld{
+		border:solid 1px #b9b7b2;
+
+	}
+
+.lbPRoducto{
+	font-size:16px;
+	font-weight:bold;
+}
+
+.lbFrm{
+	font-size:16px;
+	font-weight:bold;
+	width:160px;
+	text-align:left;
+	margin-right:5px;
+	margin-bottom:15px;
+	display:inline-block;
+}
+
+.txtFrm{
+	width:180px;
+	text-align:left;
+	margin-right:5px;
+	margin-bottom:15px;
+	display:inline-block;
+}
+
+.txtFrmShort{
+	width:140px;
+	text-align:left;
+	margin-right:5px;
+	margin-bottom:15px;
+	display:inline-block;
+}
+
+.tagMenu{
+	color:#004f25;
+	cursor:pointer;
+	padding:7px 0;
+}
+
+.tagMenu:hover{
+	text-decoration:underline;
+}
+
+.linkMenu{
+	color:#FFFFFF;
+	text-decoration:underline;
+	font-size:16px;
+	margin-left:20px;
+}
+
+.linkMenu:hover{
+	color:#004f25;
+	text-decoration:none;
+}
+
+.selectPersonClass{ 
+	background-color:#CCC;
+}
+
+.selectMenuItemClass{
+	font-weight:bold;
+	text-decoration:underline;
+	color:#000;
+}

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/kairos199/!svn/ver/174/kairos/grails-app/domain/kairos
+END
+Rol.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/kairos199/!svn/ver/152/kairos/grails-app/domain/kairos/Rol.groovy
+END
+Filial.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/kairos199/!svn/ver/110/kairos/grails-app/domain/kairos/Filial.groovy
+END
+Nota.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/kairos199/!svn/ver/72/kairos/grails-app/domain/kairos/Nota.groovy
+END
+Persona.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/kairos199/!svn/ver/174/kairos/grails-app/domain/kairos/Persona.groovy
+END
+SusuarioRol.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/kairos199/!svn/ver/152/kairos/grails-app/domain/kairos/SusuarioRol.groovy
+END
+Usuario.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/kairos199/!svn/ver/148/kairos/grails-app/domain/kairos/Usuario.groovy
+END
+Susuario.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/kairos199/!svn/ver/152/kairos/grails-app/domain/kairos/Susuario.groovy
+END
